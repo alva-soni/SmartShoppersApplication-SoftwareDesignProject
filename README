@@ -1,0 +1,30 @@
+Below are example credentials for Admin, Manager, and Customer.
+
+Credentials may be subjected to changes from within the app.
+For more up-to-date credentials, best to check their textfile.
+
+Customers can register via the login page, and admin credentials
+already exist in the system. Admins can create other admins and managers.
+
+To find existing Admin Credentials: 
+-Go to EECS3311-project/data/AdminCredentials.txt
+Example Admin credentials: parrots@hotmail.ca/turkey
+
+To find existing Manager Credentials: 
+-Go to EECS3311-project/data/ManagerCredentials.txt
+Example Manager credentials: acorns@email.ca/forest
+
+To find existing Customer Credentials:
+-Go to EECS3311-project/data/CustomerCredentials.txt
+Example Customer credentials: greenleaf@gmail.ca/mirkwood
+
+Background: The SmartShoppers system is an online system that allows customers to find products in the physical
+retail stores with a greater precision. The main goal of the software system is to provide the customers with a
+faster and smooth shopping experience in store. SmartShoppers would allow customers to find the products that are
+available in a specific store and its location in the store. This product will have many benefits to the customer and
+the SmartShoppers Inc. The customer will have financial benefits as they are able to save money by being provided
+all the on-sale items. The customer also is able to find recommended products which they might not have had a
+chance to find in store. The customer saves time shopping because they know the exact locations of the products
+which they would like to purchase. ShoppersLand Inc. would benefit financially as they will sell more products
+because of the SmartShoppers online system. ShoppersLand’s employees would also be able to work efficiently as
+they will be asked fewer questions by the customers regarding the products

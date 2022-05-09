@@ -1,0 +1,20 @@
+PRODUCT-b0c56820,Sunhat,$40.99,Accessories,Cute and comfy - great for that spring or summer weather!,6,200grams,4
+PRODUCT-761377d8,Sunglasses,$20.99,Accessories,Lightweight unisex sunglasses with UV ray protection!,10,150grams,3
+PRODUCT-3f20365d,Winter Jacket,SALE $150.99,Clothes,Each jacket is very adjustable and great for weathering the cold winter!,7,Large,4
+PRODUCT-40bfd0e0,Winter Gloves,$20.99,Accessories,Comfy and great for winter weather!,8,Medium,2
+PRODUCT-62abcf4f,Sundress,$25.99,Clothes,Cute and comfy with sunflower pattern designs!,9,Medium,4
+PRODUCT-843271fd,Tie-Dye Shirt,$16.99,Clothes,Very cute and comfy rainbow tie-dye shirts!,15,Medium,4
+PRODUCT-fc78996a,Cowboy Hat,$50.44,Accessories,Cool and comfy cowboy hat - wear it at a rodeo or just out on the town!,16,Medium,3
+PRODUCT-54c38c20,Scarf,$29.99,Accessories,Great for cool fall weather or cold winter weather!,18,400grams,3
+PRODUCT-074f7a94,Hiking Boots,$150.99,Shoes,Comfy and breathable hiking boots great for any time of the year! Waterproof and durable - use them for your seasonal nature treks!,18,Medium,6
+PRODUCT-dfa392ba,Winter Boots,SALE $140.99,Shoes,Waterproof and snowproof - also helps prevent slipping on ice!,20,Large,5
+PRODUCT-d6a82c3e,Sneakers,$50.00,Shoes,Great for use all year long! ,16,Large,4
+PRODUCT-ebe4f5cb,Bracelet,$19.99,Accessories,Very cute and lightweight bracelet! ,9,Small,2
+PRODUCT-1446d50e,Windbreaker,$60.99,Clothes,Use for jogs or hikes - comfy and durable!,19,Large,4
+PRODUCT-3c9c15e4,Rain Coat,SALE $19.99,Clothes,Perfect for that rainy spring weather!,40,Large,5
+PRODUCT-dc56c5e9,Trail Mix,$15.99,Snacks,Only the best and most premium trail mix in the market!,18,600kg,6
+PRODUCT-ed00de40,Go-Go Bar,$15.99,Snacks,Energy bar that tastes like victory!,20,200grams,1
+PRODUCT-61b1570d,Sunflower Seeds,$14.00,Snacks,Large bag of delicious sunflower seeds! Eat them or share them birds! ,7,1kg,3
+PRODUCT-37db1b92,Peanut Butter Bars,$14.99,Snacks,Delicious and a great source of energy! ,20,500grams,4
+PRODUCT-21c9a738,Rain Boots,SALE $18.99,Shoes,Great deal on these small sized rain boots! Spring has just begun!,30,Small,4
+PRODUCT-04c1c4ab,Granola Bar,$12.99,Snacks,Granola bar made of oats, nuts, and hints of chocolate! ,16,450grams,4

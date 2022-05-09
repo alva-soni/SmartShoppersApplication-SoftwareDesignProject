@@ -1,0 +1,28 @@
+PRODUCT-e7e9b2da,Red Delicious Apple,$2.99,Food,Great source of natural vitamin C,28, 150g,3
+PRODUCT-d00d85a5,Blood Orange,$3.99,Food,Great source of natural vitamin A,3, 180g,3
+PRODUCT-76981jk6,Lawn Chair,$25.99,Furniture,Comfortable and easy to store and easy to use!,4, 22.7 lb,6
+PRODUCT-1b6f4e9c,Hair Brush,$7.99,Health & Beauty,Perfect for detangling unruly hair,1,0.5 lb,2
+PRODUCT-76d37f7e,Sunscreen,$12.99,Health & Beauty,SPF 60 sunscreen perfect for preventing sunburn and premature wrinkles.,1, 170g,2
+PRODUCT-729815f6,Study Desk,$155.99,Furniture,Spacious and height adjustable with a wood grain finish,6, 41.92 lb,6
+PRODUCT-069815f6,Sofa Chair,$95.99,Furniture,Includes lumbar support for ultimate comfort.,4,105 lb,6
+PRODUCT-96981g86,Desk Lamp,SALE $95.99,Furniture,Utilizes a recharable LED light and includes swivel technology for perfect positioning on the desk.,4, 3.4 lb,6
+PRODUCT-3788a21d,Water Bottle,SALE $18.99,Reusables,BPA free and can hold 2.2 L of water! Light weight and great for workouts!,7,1lb,3
+PRODUCT-4b729c1f,Ketchup,SALE $6.99,Food,Real tomato ketchup - make sure to shake well before using!,10,750ml,3
+PRODUCT-8uf2vb9h,Fortune Cookie,$3.99,Food,Gives you a real fortune,10,20g,1
+PRODUCT-6f3584cb,BlueBerry Scone,$3.99,Food,Made with fresh blueberries!,12,150grams,8
+PRODUCT-467c9203,Banana Bread,$5.99,Food,Freshly baked Banana Bread curtesy of the bakery!,6,500grams,3
+PRODUCT-1719184e,Microwave Oven,$80.99,Appliances,Gets the job done like a regular sized oven - and fits into smaller areas.,7,8kg,5
+PRODUCT-86c452c9,Fridge,$800.99,Appliances,Keeps your food cold and long-lasting!,4,500kg,6
+PRODUCT-0dc3dada,Bandaids,$5.99,Health & Beauty,Used to protect smaller cuts from outside bacteria. ,40,100grams,3
+PRODUCT-8109d936,Clay Pot,$12.99,Household,Place smaller house plants in here! ,18,2kg,7
+PRODUCT-77ad4e4b,Mop,$14.50,Household,Clean up spills in your home with this!,6,1kg,9
+PRODUCT-f6d2ec83,Washing Machine,$400,Appliances,Very useful in cleaning clothes!,3,250kg,8
+PRODUCT-4c068fed,Towel,$3.99,Household,Cloth towel - use in the kitchen or bathroom!,15,500grams,5
+PRODUCT-454905bc,Milk,$4.99,Food,Skim milk tastes great with cereal or on its own!,8,2.2L,5
+PRODUCT-aa0a1670,Photo Album,SALE $15.99,Crafts,Store many pictures full of memories - or use it for scrapbooking!,20,1kg,6
+PRODUCT-59973690,Chocolate,$5.99,Food,Milk Chocolate is the best chocolate of all.,6,500gram,3
+PRODUCT-26183c47,Epsom Salts,$16.99,Health & Beauty,Bathe in epsom salts to relax your muscle after streneous exercise!,14,1kg,2
+PRODUCT-8c09a88b,Glitter,SALE $2.99,Crafts,Glitter is the herpes of the craft world. ,50,100grams,7
+PRODUCT-5237b7a4,Purple Paint,$10.99,Crafts,Large paint cans - enough paint to last a while and it doesn't try out!,6,4kg,6
+PRODUCT-cdbc909e,Yarn,$15.99,Crafts,Colorful yarn!,30,500grams,8
+PRODUCT-74b550fb,Mason Jar,$16.99,Reusables,Made from glass!,5,300grams,3

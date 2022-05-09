@@ -1,0 +1,21 @@
+PRODUCT-a73370b2,Gardening Gloves,SALE $10.99,Gardening,Very comfy - protects from stinging nettle!,8,200grams,6
+PRODUCT-9a47c18e,Shovel,$20.99,Gardening,Strong a durable shovel used to dig in tough ground!,5,3kg,5
+PRODUCT-e33b6148,Fertilizer,$70.99,Gardening,Made from cow manure. ,16,50kg,6
+PRODUCT-cecebd93,Watering Can,$17.99,Gardening,Useful for providing water to plants!,9,1kg,4
+PRODUCT-ba0bf335,Gardening Tools,SALE $200,Gardening,Set of 9 gardening tools!,14,10kg,5
+PRODUCT-546e6290,Cat Food,$12.99,Pet Supplies,Food that your cat will love! ,20,1kg,2
+PRODUCT-392693ce,Dog Food,$16.99,Pet Supplies,Food that your dog will love!,20,2kg,2
+PRODUCT-60f96d9e,Puppy Pads,$15.99,Pet Supplies,Helps train puppies to be potty-trained!,,800kg,5
+PRODUCT-d1284e4c,Cat Castle,$60.99,Pet Supplies,Your cat will love you if you purchase this for them!,3,25kg,4
+PRODUCT-50cc3d88,Ball,$3.99,Pet Supplies,Your dog will love you if you purchass this for them!,30,250grams,2
+PRODUCT-b271093a,Pencils,$11.99,School Supplies,Set of 100 pencils per pack you purchase!,150,500gram,5
+PRODUCT-2579cfbb,Notebook,$7.99,School Supplies,200 pages per notebook!,24,300grams,3
+PRODUCT-9e75f074,Pens,$8.99,School Supplies,Set of 4 pens per pack!,100,150grams,3
+PRODUCT-d0086764,Gardening Shed,SALE $500,Gardening,Store all your gardening tools in this waterproof and fairly portable gardening shed!,3,150kg,9
+PRODUCT-6a641f26,Chocolate Stars,$4.99,Candy,Delicious and cute!,10,100grams,1
+PRODUCT-ba787f48,Cotton Candy Clouds,$10.99,Candy,Very delicous cotton candy that comes in pink or blue!,8,250grams,1
+PRODUCT-0f509fb8,Toadstool Gummies,$4.99,Candy,Very cute and delicious toadstool gummies! ,16,150gram,1
+PRODUCT-d88aa1ed,Shark Gummies,SALE $6.99,Candy,Very cute and delicious shark gummies!,20,300grams,1
+PRODUCT-0fdf3dbe,Moon Marshmellow,$7.99,Candy,Very sweet and delicious! ,14,250grams,1
+PRODUCT-d78f0d93,Heart Candy Canes,SALE $9.99,Candy,Delicious heart-shaped candy canes! Great for any time of the year - not just Winter!,30,400grams,1
+PRODUCT-7f851949,Calculator,$18.99,School Supplies,Handy for trigonometry calculations!,16,200grams,3

@@ -1,0 +1,3 @@
+STORE-GG1122,Greenhawk Groceries,1122 Sunday Ave. Toronto ONT,Open 7AM - 10PM daily
+STORE-EE3123,Everything Everyday,3123 Sky St. Toronto ONT,Open 24 hours daily
+STORE-APM7878,All-Purpose Market,7878 Park Ave. Missisauga ONT,Open 7AM - 10PM daily
